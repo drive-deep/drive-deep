@@ -1,4 +1,4 @@
-- 👋 Hi, I’m engineer @ fireeye
+- 👋 Hi, I’m backend engineer @ fireeye
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning golang , aws
 - 💞️ I’m looking to collaborate on web-application using golang
