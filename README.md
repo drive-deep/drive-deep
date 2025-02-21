@@ -1,8 +1,10 @@
-- 👋 Hi, I’m backend engineer @ fireeye
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning golang , aws, python, elixir
-- 💞️ I’m looking to collaborate on web-application using golang
-- 📫 How to reach me ...
+# 👋 Hi, I'm Prabhat Ranjan!  
+
+- 🚀 Backend Engineer @ Trellix (formerly FireEye)  
+- 👀 Passionate about backend development, system design, and scalable architectures  
+- 🌱 Currently exploring Golang, AWS, Python, Elixir, and distributed systems  
+- 💡 Interested in collaborating on high-performance web applications and fintech solutions using Golang  
+- 📫 Reach me at gmail [rprabhat760@gmail.com] or on linkedin [https://www.linkedin.com/in/prabhat-ranjan-47078414a/]
 
 <!---
 drive-deep/drive-deep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
