@@ -15,15 +15,24 @@
 ## 🛠️ Tech Stack  
 
 ### **Languages & Frameworks**  
-- **Golang** | **Python** | **Elixir** | **JavaScript**  
+- **Golang** | **Python** | **Java** | **JavaScript**  | **Elixir**
 - **FastAPI** | **Flask** | **Django** | **Gin**  
 - **Vue.js** | **React.js**  
+
+### **Golang Frameworks & Libraries**  
+- **Web Frameworks**: Gin | Fiber | Echo | Chi  
+- **gRPC & APIs**: gRPC | GraphQL | REST (with OpenAPI/Swagger)  
+- **Database & ORM**: GORM | SQLC | Ent  
+- **Messaging & Queues**: Kafka-Go | NATS | RabbitMQ  
+- **Logging & Monitoring**: Zap | Logrus | Prometheus | Jaeger  
+- **Testing & Mocking**: Testify | GoMock | Ginkgo  
 
 ### **Cloud & Infrastructure**  
 - **AWS** (Lambda, EC2, S3, RDS, DynamoDB, EKS, ECR, SQS, SNS, CloudWatch)  
 - **Docker & Kubernetes** (EKS, Helm, Terraform)  
 - **Serverless Architectures** (AWS Lambda, DynamoDB Streams)  
 - **Infrastructure as Code (IaC)** (Terraform, AWS CloudFormation)  
+- **Reverse Proxy & Load Balancing**: **Nginx**  
 
 ### **Databases & Messaging**  
 - **Relational**: PostgreSQL | MySQL | SQLite  
@@ -39,6 +48,7 @@
 ### **CI/CD & DevOps**  
 - **CI/CD Tools**: GitHub Actions | Jenkins | ArgoCD | GitLab CI/CD | CircleCI  
 - **Containerization**: Docker | Kubernetes (EKS) | AWS ECR  
+- **Reverse Proxy & Load Balancing**: **Nginx**  
 - **Monitoring & Logging**: Prometheus | Grafana | CloudWatch | ELK Stack  
 - **Configuration Management**: Ansible | Helm  
 
@@ -58,8 +68,8 @@
 - Developed **CI/CD pipelines** for microservices, reducing deployment time by **50%**  
 - Optimized data ingestion pipelines, improving **event processing speed**  
 
-### **Samsung R&D Institute – Software Developer Intern** *(Jan 2020-May 2020)*  
-- Worked on **python** and **Django** for  python web application development  
+### **Samsung R&D Institute – Software Developer Intern** *(Jan 2020 – May 2020)*  
+- Worked on **Python** and **Django** for web application development  
 
 ---
 
@@ -87,7 +97,7 @@ GPA: 7.90/10
 ## 📫 Let's Connect  
 - 🔗 **LinkedIn**: [linkedin.com/in/prabhat-ranjan](https://www.linkedin.com/in/prabhat-ranjan-47078414a/)  
 - 💻 **GitHub**: [github.com/drive-deep](https://github.com/drive-deep)  
-- 📩 **Email**: [your.email@example.com](rprabhat760@gmail.com)  
+- 📩 **Email**: rprabhat760@gmail.com  
 
 ---
 
