@@ -58,7 +58,7 @@
 - Developed **CI/CD pipelines** for microservices, reducing deployment time by **50%**  
 - Optimized data ingestion pipelines, improving **event processing speed**  
 
-### **Samsung R&D Institute – Software Developer Intern** *(2019)*  
+### **Samsung R&D Institute – Software Developer Intern** *(Jan 2020-May 2020)*  
 - Worked on **python** and **Django** for  python web application development  
 
 ---
