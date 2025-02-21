@@ -79,7 +79,7 @@
 
 ## 📖 Education  
 🎓 **Bachelor of Engineering – Electronics & Communication**  
-**Indian Institute of Information Technology (IIIT)**  
+**Indian Institute of Information Technology (IIIT) Allahabad**  
 GPA: 7.90/10  
 
 ---
