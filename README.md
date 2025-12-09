@@ -2,6 +2,11 @@
 
 **Senior Backend & Security Platform Engineer | Golang | AWS | Distributed Systems**
 
+
+## 📄 Resume & CV
+
+**[⬇️ Download Resume (PDF)](./senior_prabhat_resume.pdf)** | **[📖 View Full Resume](./RESUME.md)** | **[LinkedIn Profile](https://linkedin.com/in/prabhat-ranjan)**
+
 ---
 
 ## 💡 About Me
