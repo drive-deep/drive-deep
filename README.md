@@ -92,11 +92,11 @@ I approach every system with a focus on **scalability, security, and observabili
 ## 🚀 Featured Projects
 
 ### **Multi-Tenant Virtual Firewall Platform**
-Enterprise-grade virtual firewall with tenant isolation, packet processing, and security policies.
+On-premises virtual firewall supporting multiple virtual firewalls on a single Debian machine with tenant isolation, packet processing, and security policies.
 
 **Tech Stack:** Golang, Linux Namespaces, PostgreSQL, Redis, Prometheus, gRPC  
 **Key Achievements:**
-- Handles **1000+ concurrent tenants** with strict isolation
+- Handles **100++ concurrent tenants** with strict isolation
 - **<100ms** packet processing latency per tenant
 - Sub-millisecond policy evaluation with caching
 - Multi-region deployment with failover
