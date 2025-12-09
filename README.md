@@ -94,13 +94,12 @@ I approach every system with a focus on **scalability, security, and observabili
 ### **Multi-Tenant Virtual Firewall Platform**
 On-premises virtual firewall supporting multiple virtual firewalls on a single Debian machine with tenant isolation, packet processing, and security policies.
 
-**Tech Stack:** Golang, Linux Namespaces, PostgreSQL, Redis, Prometheus, gRPC  
+**Tech Bash/Shell Scripts, Golang (optional CLI tools), iptables/nftables, Linux Namespaces, Debian OS
 **Key Achievements:**
-- Handles **100++ concurrent tenants** with strict isolation
-- **<100ms** packet processing latency per tenant
-- Sub-millisecond policy evaluation with caching
-- Multi-region deployment with failover
-
+- Supports multiple virtual firewalls on single Debian machine (capacity depends on system resources: CPU, RAM, network)
+- Deployed via shell scripts with iptables/nftables for packet processing
+- Linux namespaces for strict virtual firewall isolation
+- Sub-millisecond policy evaluation using kernel-level netfilter rules
 [→ View on GitHub](https://github.com/drive-deep/waf)
 
 ### **SOAR Event Processing & Incident Response**
