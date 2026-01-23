@@ -5,7 +5,7 @@
 
 ## 📄 Resume & CV
 
-**[⬇️ Download Resume (PDF)](./resume_prabhat.pdf)** | **[📖 View Full Resume](/resume_prabhat.pdf)** | **[LinkedIn Profile](https://linkedin.com/in/prabhat-ranjan)**
+<a href="resume_prabhat.pdf" download><img src="https://img.shields.io/badge/Download-Resume%20PDF-0077B6?style=for-the-badge&logo=adobe&logoColor=white" alt="Download Resume"></a> | <a href="https://github.com/drive-deep/drive-deep/blob/main/resume_prabhat.pdf"><img src="https://img.shields.io/badge/View-Full%20Resume-00B4D8?style=for-the-badge&logo=github" alt="View Resume"></a> | <a href="https://linkedin.com/in/prabhat-ranjan"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 
 ---
 
