@@ -5,7 +5,7 @@
 
 ## 📄 Resume & CV
 
-<a href="resume_prabhat.pdf" download><img src="https://img.shields.io/badge/Download-Resume%20PDF-0077B6?style=for-the-badge&logo=adobe&logoColor=white" alt="Download Resume"></a> | <a href="https://github.com/drive-deep/drive-deep/blob/main/resume_prabhat.pdf"><img src="https://img.shields.io/badge/View-Full%20Resume-00B4D8?style=for-the-badge&logo=github" alt="View Resume"></a> | <a href="https://linkedin.com/in/prabhat-ranjan"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+<a href="https://github.com/drive-deep/drive-deep/raw/main/resume_prabhat.pdf" download><img src="https://img.shields.io/badge/Download-Resume%20PDF-0077B6?style=for-the-badge&logo=adobe&logoColor=white" alt="Download Resume"></a> | <a href="https://github.com/drive-deep/drive-deep/blob/main/resume_prabhat.pdf"><img src="https://img.shields.io/badge/View-Full%20Resume-00B4D8?style=for-the-badge&logo=github" alt="View Resume"></a> | <a href="https://www.linkedin.com/in/prabhat-ranjan-47078414a"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 
 ---
 
@@ -191,7 +191,7 @@ GPA: 7.90/10
 
 ## 🔗 Let's Connect
 
-🔗 **LinkedIn:** [linkedin.com/in/prabhat-ranjan-47078414a/](https://www.linkedin.com/in/prabhat-ranjan-47078414a/)  
+🔗 **LinkedIn:** [www.linkedin.com/in/prabhat-ranjan-47078414a-47078414a/](https://www.www.linkedin.com/in/prabhat-ranjan-47078414a-47078414a/)  
 💻 **GitHub:** [github.com/drive-deep](https://github.com/drive-deep)  
 📩 **Email:** [rprabhat760@gmail.com](mailto:rprabhat760@gmail.com)  
 
