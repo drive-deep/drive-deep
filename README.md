@@ -5,7 +5,7 @@
 
 ## 📄 Resume & CV
 
-**[⬇️ Download Resume (PDF)](./senior_prabhat_resume.pdf)** | **[📖 View Full Resume](/senior_prabhat_resume.pdf)** | **[LinkedIn Profile](https://linkedin.com/in/prabhat-ranjan)**
+**[⬇️ Download Resume (PDF)](./resume_prabhat.pdf)** | **[📖 View Full Resume](/resume_prabhat.pdf)** | **[LinkedIn Profile](https://linkedin.com/in/prabhat-ranjan)**
 
 ---
 
